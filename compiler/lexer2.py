@@ -6,7 +6,7 @@ insert into CNSS values("yype","Bin",20);
 insert into CNSS values("primelee","Bin",20);
 insert into CNSS values("N0th3ty","WEB",20);
 display CNSS;
-delte from CNSS where ( "ID" = "primelee" );
+delete from CNSS where ( "ID" = "primelee" );
 """
 
 words = []
