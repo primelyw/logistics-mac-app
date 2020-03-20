@@ -141,7 +141,7 @@ UI 设计:
 keywords = ["create","table","insert","into","display","select","where","update","fr om","set","values","and","all","int","string"]
 ~~~
 
-![image-20200320142918045](README.assets/image-20200320142918045.png)
+![image-20200320142918045](pngs/image-20200320142918045.png)
 
 词法解析器
 
